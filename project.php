@@ -210,6 +210,9 @@
       <div class="col-md-7">
         <div class="join_us_content">
           <h1>Join With Us</h1>
+            <div class="line_svg">
+              <img src="assets/img/line.svg"  alt="">
+            </div>
           <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
           tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
           quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo

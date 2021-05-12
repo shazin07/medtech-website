@@ -195,6 +195,9 @@
         <div class="about_content">
           <div class="section_simple_header">
             <h3>Who We Are</h3>
+            <div class="line_svg">
+              <img src="assets/img/line.svg"  alt="">
+            </div>
           </div>
             <p class="first">Welcome to MedTech – one of Qatar’s leading suppliers of medical and laboratory equipment.
               We provide the world’s best medical & laboratory equipment.
